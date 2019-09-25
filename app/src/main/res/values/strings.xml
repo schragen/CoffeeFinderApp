@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee Finder App</string>
+    <string name="ivibelogo">iVibe Logo</string>
+    <string name="caribouLogo">Caribou Logo</string>
+    <string name="dunkinLogo">Dunkin Donuts Logo</string>
+    <string name="starbucksLogo">Starbucks Logo</string>
+    <string name="ivibeAddress">5191 West 112th Street, Westminster, CO 80030</string>
+    <string name="caribouAddress">10611 Westminster Boulevard, Westminster, CO 80020</string>
+    <string name="dunkinAddress">7615 W 88th Ave, Westminster, CO 80005</string>
+    <string name="starbucksAddress">10339 N Federal Boulevard, Westminster, CO 80031</string>
+</resources>
